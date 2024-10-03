@@ -3,7 +3,6 @@ using namespace std;
 
 int main ()
 {
-    int age;
 	string nickname;
 	string cyl;
 	string school;
